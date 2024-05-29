@@ -4,5 +4,5 @@ Abaixo está a imagem do digarma UML, verifique também as classas java no repos
 
 <hr>
 
-<img src="E:\estudos\modelagem-iphone-dio\src\main\java\io\github\pauloricardodev\diagrama.png">
+<img src="src/main/java/io/github/pauloricardodev/diagrama.png">
 
